@@ -1,0 +1,1 @@
+Este es un proyecto de prueba que imprime si un valor al azar (entre 0 y 1) es menor o igual que 0.5 o si por el contrario es mayor de 0.5
